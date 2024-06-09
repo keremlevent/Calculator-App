@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="white">#0C0C0C</color>
+    <color name="displayGradientStart">#808F6A</color>
+    <color name="displayGradientEnd">#808F6A</color>
+    <color name="colorPrimaryDark">#FBF9F9</color>
+    <color name="windowBackground">#1f1f1f</color>
+    <color name="color_White">#0C0C0C</color>
+    <color name="colorLightBackground">#0C0C0C</color>
+    <color name="colorWhite">#0C0C0C</color>
+    <color name="draw">#FFFFFF</color>
+    <color name="displayMockFontColor">#7E8B6A</color>
+    <color name="textColorPrimary">#E5E1E1</color>
+    <color name="popupcolor">#232222</color>
+    <color name="displayNonMockFontColor">#C4C403</color>
+    <color name="colorCardDT">#E5E1E1</color>
+    <color name="colorCardDTlight">#1E3D67</color>
+    <color name="acBackspaceColor">#ED1F10</color>
+    <color name="colorBackgroundGrayLight">@color/colorPrimaryDarkTheme</color>
+
+</resources>
